@@ -8,7 +8,7 @@ import re
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'  
 
-df = pd.read_csv('updated_zeneith_csv.csv')
+df = pd.read_csv('collegedataset.csv')
 
 os.environ["GOOGLE_API_KEY"] = "AIzaSyBN5Dv_tu1Ac9XwZQ6Ot7ZCLeVuRXTcdhg"
 
