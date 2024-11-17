@@ -5,7 +5,7 @@ A Flask-based chatbot application designed to provide information about colleges
 ## Features
 
 - **Flask Web Framework**: For building the web app and handling routes.
-- **Dataset Integration**: The chatbot uses a CSV file (`updated_zeneith_csv.csv`) containing college details like names, hostel availability, and hostel fees etc.
+- **Dataset Integration**: The chatbot uses a CSV file (`collegedataset.csv`) containing college details like names, hostel availability, and hostel fees etc.
 - **Generative AI**: Utilizes Google’s Generative AI model to generate responses based on user queries.
 - **Session Management**: Stores user history and context, including the detected college name for personalized responses.
 
