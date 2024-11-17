@@ -15,8 +15,3 @@ A Flask-based chatbot application designed to provide information about colleges
 - Flask
 - Pandas
 - langchain_google_genai
-
-To install the required packages, run:
-
-```bash
-pip install -r requirements.txt
